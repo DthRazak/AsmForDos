@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource prefix="/DOS">
+		<file>DOS/DOSBox.exe</file>
+		<file>DOS/SDL.dll</file>
+		<file>DOS/SDL_net.dll</file>
+	</qresource>
+</RCC>
